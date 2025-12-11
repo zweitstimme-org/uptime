@@ -4,19 +4,19 @@
     "url": "https://zweitstimme.org",
     "icon": "https://icons.duckduckgo.com/ip3/zweitstimme.org.ico",
     "slug": "zweitstimme-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 353,
-    "timeWeek": 210,
-    "timeMonth": 227,
-    "timeYear": 250,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 251,
+    "timeDay": 322,
+    "timeWeek": 220,
+    "timeMonth": 229,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-12-11": 0
+      "2025-12-11": 25
     }
   }
 ]
